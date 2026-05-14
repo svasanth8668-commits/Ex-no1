@@ -56,17 +56,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|       1200:12           |    1204:24               |
+|       1201:34           |    1205:68               |
+|       1202:12           |
+|       1203:34           |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="976" height="719" alt="image" src="https://github.com/user-attachments/assets/bd7b147d-9688-44ee-adfa-b89ea73a86cd" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="818" height="549" alt="Screenshot 2026-05-14 at 3 37 48 PM" src="https://github.com/user-attachments/assets/0729d002-8c96-45e2-b813-463fac8d19a6" />
+
 
 ## 2. SUBTRACTION
 
@@ -109,16 +111,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200:12           |    1204:00               |
+|       1201:34           |    1205:00               |
+|       1202:12           |
+|       1203:34           |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1308" height="729" alt="image" src="https://github.com/user-attachments/assets/574312e8-037b-4f1a-b202-2bdf4566c1b6" />
 
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="843" height="541" alt="Screenshot 2026-05-14 at 3 44 10 PM" src="https://github.com/user-attachments/assets/5250e5f0-1e18-4c10-bf25-fdc06a6e2739" />
+
 
 ## 3. MULTIPLICATION
 
@@ -158,15 +164,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200:12           |    1204:00               |
+|       1201:34           |    1205:00               |
+|       1202:12           |    1206:97               | 
+|       1203:34           |    1207:0A               |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1439" height="896" alt="image" src="https://github.com/user-attachments/assets/8a879997-a801-4147-9c4c-b86daf83ccf4" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="696" height="268" alt="Screenshot 2026-05-14 at 3 48 04 PM" src="https://github.com/user-attachments/assets/807995b2-0298-4775-aae2-96010d045a23" />
+
 
 ## 4. DIVISION
 
@@ -203,14 +213,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200:12           |                          |
+|       1201:34           |    1204:01               |
+|       1202:12           |    1205:00               | 
+|       1203:34           |    1206:00               |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1274" height="637" alt="image" src="https://github.com/user-attachments/assets/7e944021-2336-4b72-9690-a68d9b7952a3" />
 
----
 ## OUTPUT FROM MASM SOFTWARE
+<img width="862" height="489" alt="Screenshot 2026-05-14 at 3 51 16 PM" src="https://github.com/user-attachments/assets/11b3f8aa-d12e-4b41-b8ee-873e832d6bbc" />
+
 
 
 
